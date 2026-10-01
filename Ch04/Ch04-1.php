@@ -1,3 +1,7 @@
+# SID: C123456<BR>
+# Name: Smith<BR>
+EX01
+<HR>
 <?php
 echo "PHP與MySQL網頁設計<br/>";
 ?>

@@ -1,3 +1,7 @@
+# SID: C123456<BR>
+# Name: Smith<BR>
+EX04
+<HR>
 <?PHP
 define("PI", 3.1415926);  // 常數宣告
 define("AREA", "面積");

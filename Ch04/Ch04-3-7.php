@@ -1,3 +1,7 @@
+# SID: C123456<BR>
+# Name: Smith<BR>
+EX05
+<HR>
 <?php
 function square(float|int $v): int|float
 {

@@ -1,3 +1,7 @@
+# SID: C123456<BR>
+# Name: Smith<BR>
+EX02
+<HR>
 <?php
 
 // 指定變數值
