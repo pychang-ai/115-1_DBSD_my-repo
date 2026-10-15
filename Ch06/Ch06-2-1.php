@@ -3,7 +3,7 @@ function printHeader()
 {
     echo "<h3>SID: C1234567</h3>";
     echo "<h3>Name: Smith</h3>";
-    echo "PHP and MySQL PageDesign";
+    echo "<h3>EX01</h3>";
 }
 
 function printFooter()
